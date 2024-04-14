@@ -1,12 +1,14 @@
-# DS4SnapbackBoard
+# TascamDR40usbc
 
 This is an adapter PCB that replaces the DR-40's USB mini port with a host charging capable USB C port.
 
 ![Installed mod](images/finished.jpg)
 
+![Assembled mod](images/assembled.jpg)
+
 # Why/About
 
-I have done USB C mods to many of the devices I own, and I wanted to make one for my DR-40.
+I have done USB C mods to many of the devices I own, and I wanted to make one for my DR-40. This may also work on a DR-40X, but I do not own one to confirm this.
 
 This mod uses 0402 SMD resistors and a small pitched USB C port, so it will require some soldering experience.
 
@@ -22,7 +24,12 @@ Hobby knife.
 
 # Installation
 
-Disassemble and remove the USB mini port from your DR-40. Use solder wick to make the USB mini port's pads flat. Touch up the castellated holes of your PCB, as they will most certainly arrive with excess material from the pads being drilled. Seat the USB C portt as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins. Afterwards, solder the two resistors onto their footprints while being careful to not bridge the resistors and the USB C port. Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines. 
+Disassemble and remove the USB mini port from your DR-40. Use solder wick to make the USB mini port's pads flat. 
+Touch up the castellated holes of your PCB, as they will most certainly arrive with excess material from the pads being drilled. Seat the USB C port as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins. Afterwards, solder the two resistors onto their footprints while being careful to not bridge the resistors and the USB C port. 
+Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines. 
+Remove plastic as shown in the image below from the casing to make room for the USB C port. Reassemble enough to test.
+
+![Removed Plastic](images/casemod.jpg)
 
 # PCB Images
 
