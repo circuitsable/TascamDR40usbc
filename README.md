@@ -8,6 +8,8 @@ This is an adapter PCB that replaces the DR-40's USB mini port with a host charg
 
 ![Installed mod](images/finished.jpg)
 
+*ignore the mediocre soldering, it works ;)*
+
 ![Assembled mod](images/assembled.jpg)
 
 # Why/About
