@@ -1,3 +1,7 @@
+# DO NOT USE!! Makes USB unusable.
+
+I am not sure why, but it will not function off of usb. My soldering was correct, it should have access to 3A with my schematic, but every device I plug it into either shuts off as if it is protecting itself, or does nothing. Maybe it is because of the unconnected ID pin? For now, this will remain privated.
+
 # TascamDR40usbc
 
 This is an adapter PCB that replaces the DR-40's USB mini port with a host charging capable USB C port.
@@ -24,11 +28,20 @@ Basic soldering equipment.
 
 Hobby knife.
 
+Needle nose pliers.
+
 # Installation
 
-Disassemble and remove the USB mini port from your DR-40. Use solder wick to make the USB mini port's pads flat. 
+Disassemble and remove the USB mini port from your DR-40. This can be destructively (LEAVE PADS INTACT!!!), or with a hot air station. Use solder wick to make the USB mini port's pads flat. 
+
 Touch up the castellated holes of your PCB, as they will most certainly arrive with excess material from the pads being drilled. Seat the USB C port as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins. Afterwards, solder the two resistors onto their footprints while being careful to not bridge the resistors and the USB C port. 
-Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines. 
+
+Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines.
+
+Use pliers to bend a bit of the shielding between the digital and analog board to make room for the USB C port, as shown in the image below.
+
+![Bent shield](images/shield.jpg)
+ 
 Remove plastic as shown in the image below from the casing to make room for the USB C port. Reassemble enough to test.
 
 ![Removed Plastic](images/casemod.jpg)
