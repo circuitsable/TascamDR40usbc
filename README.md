@@ -1,7 +1,3 @@
-# DO NOT USE!! Makes USB unusable.
-
-I am not sure why, but it will not function off of usb. My soldering was correct, it should have access to 3A with my schematic, but every device I plug it into either shuts off as if it is protecting itself, or does nothing. Maybe it is because of the unconnected ID pin? For now, this will remain privated.
-
 # TascamDR40usbc
 
 This is an adapter PCB that replaces the DR-40's USB mini port with a host charging capable USB C port.
