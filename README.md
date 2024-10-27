@@ -28,11 +28,13 @@ Hobby knife.
 
 Needle nose pliers.
 
+File/Side cutters (Optional).
+
 # Installation
 
-Disassemble and remove the USB mini port from your DR-40. This can be destructively (LEAVE PADS INTACT!!!), or with a hot air station. Use solder wick to make the USB mini port's pads flat. 
+Disassemble and remove the USB mini port from your DR-40. This can be destructively to the original port (BUT LEAVE PADS INTACT!!!), or cleanly with a hot air station. Use solder wick to make the USB mini port's pads flat. 
 
-Touch up the castellated holes of your PCB, as they will most certainly arrive with excess material from the pads being drilled. Seat the USB C port as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins. Afterwards, solder the two resistors onto their footprints while being careful to not bridge the resistors and the USB C port. 
+Touch up the castellated holes of your PCB with a hobby knife, as they will most certainly arrive with excess material from the pads being drilled. You may also need to file/cut off excess PCB material from its original panel. Seat the USB C port as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins to the PCB. Afterwards, solder the two resistors onto their footprints while being careful to not bridge any pins. 
 
 Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines.
 
