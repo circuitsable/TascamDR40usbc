@@ -2,9 +2,7 @@
 
 This is an adapter PCB that replaces the DR-40's USB mini port with a host charging capable USB C port.
 
-![Installed mod](images/finished.jpg)
-
-*ignore the mediocre soldering, it works ;)*
+![Installed mod](images/finished.png)
 
 ![Assembled mod](images/assembled.jpg)
 
@@ -32,11 +30,15 @@ File/Side cutters (Optional).
 
 # Installation
 
-Disassemble and remove the USB mini port from your DR-40. This can be destructively to the original port (BUT LEAVE PADS INTACT!!!), or cleanly with a hot air station. Use solder wick to make the USB mini port's pads flat. 
+Disassemble and remove the USB mini port from your DR-40. This can be destructively to the original port (as long as pads are kept intact), or with a hot air station. Use solder wick to make the removed port's pads flat. 
 
-Touch up the castellated holes of your PCB with a hobby knife, as they will most certainly arrive with excess material from the pads being drilled. You may also need to file/cut off excess PCB material from its original panel. Seat the USB C port as forward as it will go on the pcb, and solder the front two legs of it to keep it positioned. Next, solder the USB C port's 12 pins to the PCB. Afterwards, solder the two resistors onto their footprints while being careful to not bridge any pins. 
+Touch up the castellated holes of your PCB with a hobby knife, as they will most certainly arrive with excess material from the pads being drilled. You may also need to file/cut off excess PCB material from its original paneling. 
 
-Allign the edge of the adapter PCB to the edge of the DR-40's PCB, then solder the USB C port's shield to the 4 shield pads on the DR-40's PCB. Finally, solder the adapter PCBs castellated holes to the old USB data/power lines.
+Seat the USB C port as forward as it will go on the pcb, and solder **only the front two legs** of it to keep it positioned. Next, solder the USB C port's 12 pins to the PCB. Afterwards, solder the two resistors onto their footprints while being careful to not bridge any pins. 
+
+Allign the adapter PCB into the silkscreen of the removed USB Mini port, trying to allign it down the middle as best as possible, as well as leaving as little pad depth as possible.Solder the USB C port's shield to the 4 shield pads onto the DR-40 PCB. Finally, solder the adapter's castellated holes to the old USB data/power lines. 
+
+Double check all of your work for shorts, especially the castellated holes. Touching up shorts tends to move the resistors, so remain patient. Clean up flux residue.
 
 Use pliers to bend a bit of the shielding between the digital and analog board to make room for the USB C port, as shown in the image below.
 
