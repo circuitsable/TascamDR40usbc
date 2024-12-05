@@ -6,6 +6,8 @@ This is an adapter PCB that replaces the DR-40's USB mini port with a host charg
 
 ![Assembled mod](images/assembled.jpg)
 
+*ignore the ripped pads* 🤭
+
 # Why/About
 
 I have done USB C mods to many of the devices I own, and I wanted to make one for my DR-40. This may also work on a DR-40X, but I do not own one to confirm this.
