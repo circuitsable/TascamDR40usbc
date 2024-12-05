@@ -16,7 +16,7 @@ This mod uses 0402 SMD resistors and a small pitched USB C port, so it will requ
 
 # What you'll need
 
-The PCB, of which gerbers are available for in the repo. It has to be 0.8mm thick to stay within the USB mini's original footprint/volume. The PCB can be ordered from any board house, but some may not like the castellated holes on the edges. [Oshpark](https://oshpark.com/#services) will do castellated holes, has 0.8mm availability and is quite cheap, but the finished boards may require post processing with a small knife.
+The PCB, of which gerbers are available for in the [releases](https://github.com/circuitsable/TascamDR40usbc/releases/tag/gerbers). It has to be 0.8mm thick to stay within the USB mini's original footprint/volume. The PCB can be ordered from any board house, but some may not like the castellated holes on the edges. [Oshpark](https://oshpark.com/#services) will do castellated holes, has 0.8mm availability and is quite cheap, but the finished boards may require post processing with a small knife.
 
 2 0402 4.7k SMD resistors. They can be sourced from anywhere, here are some examples: [Aliexpress](https://www.aliexpress.us/item/3256801250708458.html), [Ebay](https://www.ebay.com/itm/233161891164), [Mouser](https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW04024K70FKED?qs=Jz%252BxJjKhzTxI08uguE%252B9mA%3D%3D), [Digikey](https://www.digikey.com/en/products/detail/yageo/RC0402FR-074K7L/2827563)
 
